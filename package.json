@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/wangkaiwd/react-core-concept/issues"
   },
-  "homepage": "https://github.com/wangkaiwd/react-core-concept#readme"
+  "homepage": "https://github.com/wangkaiwd/react-core-concept#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
 }
