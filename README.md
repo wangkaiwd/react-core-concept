@@ -6,6 +6,8 @@ deep dive into react core concept
 * ReactDOM.render
 * function component
 * class component
+* class component update
+* life cycle
 
 ### question
 * how to convert jsx to ast
