@@ -6,6 +6,7 @@ deep dive into react core concept
 * ReactDOM.render
 * function component
 * class component
+* synthetic event
 * class component update
 * life cycle
 
